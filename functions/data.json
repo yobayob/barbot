@@ -1,0 +1,931 @@
+{
+  "coctails": {
+    "Aviation": {
+      "name": "Авиация",
+      "desc": "Коктейль на весь день на основе джина, вишнёвого ликёра, фиалкового ликёра Crème de Violette и лимонного сока. Метод приготовления: шейк & стрейн",
+      "method": "shake & strain",
+      "recipe": "Налей в стакан для смешивания лимонный сок 15 мл, ликер мараскино 20 мл, фиалковый ликер 5 мл и джин 50 мл<br/>Наполни стакан кубиками льда и аккуратно размешай коктейльной ложкой<br/>Перелей через стрейнер в охлажденный коктейльный бокал<br/>Укрась лимонной цедрой",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/90/1556447016-aviacia-image-final.jpg",
+      "ingredients": ["gin", "cherry liqueur", "creme de violette", "lemon juice"],
+      "caterory": "The Unforgettable"
+    },
+    "Alexander": {
+      "name": "Александр",
+      "desc": "Александр смешивался на основе джина, ликёра Créme de Cacao белого и 20 % сливок в равных количествах. Классифицируется как коктейль на весь день",
+      "method": "shake & strain",
+      "ingredients": ["sparkling wine", "gin", "creme de cacao", "cream"],
+      "recipe": "Налей в шейкер нежирные сливки 30 мл, какао ликер коричневый 30 мл и коньяк 45 мл<br/>Перелей через стрейнер в охлажденное шампанское блюдце<br/>Укрась мускатным орехом молотым",
+      "imageUrl": "https://vzboltay.com/uploads/posts/2015-03/1427275646_alexander.jpg",
+      "caterory": "The Unforgettable"
+    },
+    "Americano": {
+      "name": "Американо",
+      "desc": "Коктейль-аперитив итальянского происхождения на основе красного вермута и кампари",
+      "method": "build with ice",
+      "recipe": "Наполни рокс кубиками льда доверху<br/>Налей красный биттер 50 мл и красный вермут 50 мл<br/>Долей содовую доверху и аккуратно размешай коктейльной ложкой<br/>Укрась апельсиновой цедрой",
+      "imageUrl": "http://homecocktails.ru/files/2012/01/recept-koktejlja-amerikano-americano-cocktail.jpg",
+      "ingredients": ["red vermouth", "campari"],
+      "caterory": "The Unforgettable"
+    },
+    "Bacardi": {
+      "name": "Бакарди",
+      "desc": "Коктейль-аперитив кубинского происхождения, основными компонентами которого являются светлый ром (обычно Bacardi), гренадин и лимонный сок",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["white rum", "grenadine", "lemon juice"],
+      "caterory": "The Unforgettable"
+    },
+    "White lady": {
+      "name": "Белая леди",
+      "desc": "Сауэр коктейль на основе джина и ликёра Куантро или Трипл-сека",
+      "method": "shake & strain",
+      "recipe": "Налей в шейкер лимонный сок 20 мл, ликер трипл сек 20 мл и джин 40 мл<br/>Наполни шейкер кубиками льда и взбей<br/>Перелей через стрейнер в охлажденный бокал сауэр<br/>Укрась лимонной цедрой",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/4/1533071308-belaya_ledy-image-final.jpg",
+      "ingredients": ["gin", ["cointreau", "triple sec"]],
+      "caterory": "The Unforgettable"
+    },
+    "Brandy Alexander": {
+      "name": "Бренди Александр",
+      "desc": "Коктейль со сливками (коктейль на весь день) на основе коньяка и шоколадного ликёра",
+      "method": "shake & strain",
+      "recipe": "Налей в шейкер нежирные сливки 30 мл, какао ликер коричневый 30 мл и коньяк 45 мл<br/>Наполни шейкер кубиками льда и взбей<br/>Перелей через стрейнер в охлажденное шампанское блюдце<br/>Укрась мускатным орехом молотым",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/20/1556628458-brendi_aleksandr-image-final.jpg",
+      "ingredients": ["brandy", "chocolate liqueur", "cream"],
+      "caterory": "The Unforgettable"
+    },
+    "Whiskey sour": {
+      "name": "Виски сауэр",
+      "desc": "Сауэр коктейль на основе виски, лимонного сока, сахарного сиропа",
+      "method": "shake & strain",
+      "recipe": "Наполни рокс кубиками льда<br/>Налей в шейкер белок перепелиного яйца 25 мл, лимонный сок 30 мл, сахарный сироп 15 мл и бурбон 50 мл<br/>Добавь ангостуру биттер 1 дэш<br/>Тщательно взбей безо льда<br/>Наполни шейкер кубиками льда и взбей еще раз<br/>Перелей через стрейнер в рокс<br/>Укрась кружком лимона и коктейльной вишней на шпажке",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/18/1556109137-Classic-whiskey-sour1.jpg",
+      "ingredients": ["whiskey", "lemon juice", "sugar syrup"],
+      "caterory": "The Unforgettable"
+    },
+    "Monkey Gland": {
+      "name": "Гланды обезьянки",
+      "desc": "Коктейль на весь день на основе джина, апельсинового сока, абсента и гренадина",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "orange juice", "absent", "grenadine"],
+      "caterory": "The Unforgettable"
+    },
+    "Daiquiri": {
+      "name": "Дайкири",
+      "desc": "Коктейль-аперитив, представитель семейства алкогольных коктейлей кубинского происхождения, основными компонентами которых являются светлый ром, сок лайма и сахар",
+      "method": "shake & strain",
+      "recipe": "Налей в шейкер лаймовый сок 30 мл, сахарный сироп 15 мл и белый ром 60 мл<br/>Наполни шейкер кубиками льда и взбей<br/>Перелей через стрейнер в охлажденное шампанское блюдце",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/22/1556627930-daykiri-image-final.jpg",
+      "ingredients": ["white rum", "lime juice", "sugar syrup"],
+      "caterory": "The Unforgettable"
+    },
+    "Derby": {
+      "name": "Дерби",
+      "desc": "Коктейль на весь день на основе джина, персикового биттера и листьев мяты",
+      "method": "stir & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "peach bitter", "mint"],
+      "caterory": "The Unforgettable"
+    },
+    "Gin Fizz": {
+      "name": "Джин-физ",
+      "desc": "Коктейль лонг дринк на основе джина, лимонного сока, сахарного сиропа и газированной воды",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "lemon juice", "sugar syrup", "soda"],
+      "caterory": "The Unforgettable"
+    },
+    "John Collins": {
+      "name": "Джон Коллинз",
+      "desc": "Коктейль лонг дринк на основе джина, лимонного сока, сахара и газированной воды",
+      "method": "build with ice",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "lemon juice", "soda"],
+      "caterory": "The Unforgettable"
+    },
+    "Casino": {
+      "name": "Казино",
+      "desc": "Коктейль на весь день на основе джина, мараскина, апельсинового биттера и лимонного сока",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "cherry liqueur", "orange bitter", "lemon juice"],
+      "caterory": "The Unforgettable"
+    },
+    "Clover Club": {
+      "name": "Клевер Клуб",
+      "desc": "Коктейль на весь день на основе джина, лимонного сока, малинового сиропа и яичного белка, который добавляется для образования характерной пены",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "lemon juice", "raspberry syrup", "egg"],
+      "caterory": "The Unforgettable"
+    },
+    "Angel Face": {
+      "name": "Лицо ангела",
+      "desc": "Коктейль на весь день на основе джина, абрикосового бренди и кальвадоса",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "apricot brandy", "calvados"],
+      "caterory": "The Unforgettable"
+    },
+    "Manhattan": {
+      "name": "Манхэттен",
+      "desc": "Коктейль-аперитив на основе бурбона, сладкого красного вермута и биттера",
+      "method": "stir & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["whiskey", "red vermouth", "bitter"],
+      "caterory": "The Unforgettable"
+    },
+    "Dry Martini": {
+      "name": "Мартини",
+      "desc": "Коктейль-аперитив, традиционно на основе джина и вермута",
+      "method": "stir & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "vermouth"],
+      "caterory": "The Unforgettable"
+    },
+    "Between the Sheets": {
+      "name": "Между простынями",
+      "desc": "Коктейль на весь день на основе светлого рома, коньяка, трипл-сека и лимонного сока",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["white rum", "brandy", "triple sec", "lemon juice"],
+      "caterory": "The Unforgettable"
+    },
+    "Mary Pickford": {
+      "name": "Мэри Пикфорд",
+      "desc": "Коктейль на весь день на основе светлого рома, ананасового сока, гренадина и мараскина",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["white rum", "pineapple juice", "grenadine", "cherry liqueur"],
+      "caterory": "The Unforgettable"
+    },
+    "Negroni": {
+      "name": "Негрони",
+      "desc": "Коктейль-аперитив на основе джина и вермута",
+      "method": "build with ice",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "vermouth"],
+      "caterory": "The Unforgettable"
+    },
+    "Old Fashioned": {
+      "name": "Олд фешен",
+      "desc": "Коктейль-аперитив на основе бурбона, скотча или ржаного виски",
+      "method": "build",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["whiskey"],
+      "caterory": "The Unforgettable"
+    },
+    "Screwdriver": {
+      "name": "Отвёртка",
+      "desc": "Коктейль лонг дринк, содержащий водку и апельсиновый сок",
+      "method": "build with ice",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["vodka", "orange juice"],
+      "caterory": "The Unforgettable"
+    },
+    "Paradise": {
+      "name": "Парадис",
+      "desc": "Коктейль на весь день на основе джина, абрикосового ликёра и апельсинового сока",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["gin", "apricot brandy", "orange juice"],
+      "caterory": "The Unforgettable"
+    },
+    "Planter's Punch": {
+      "name": "Плантаторский пунш",
+      "desc": "Коктейль лонг дринк на основе тёмного рома, фруктовых соков, гренадина, сахарного сиропа и ангостуры",
+      "method": "shake & strain",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["dark rum", "juice", "grenadine", "sugar syrup", "angostura"],
+      "caterory": "The Unforgettable"
+    },
+    "Porto flip": {
+      "name": "Порт-флип",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе портвейна и бренди, разновидность флипа",
+      "method": "shake & strain",
+      "ingredients": ["port wine", "brandy"],
+      "caterory": "The Unforgettable"
+    },
+    "Ramos gin fizz": {
+      "name": "Рамоз Физ",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе джина, соков лимона и лайма, сахарного сиропа, сливок, яичного белка и газированной воды с добавлением апельсиновой воды и экстракта ванили",
+      "method": "shake & strain",
+      "ingredients": ["gin", ["lime juice", "lemon juice"], "sugar syrup", "cream", "egg", "soda"],
+      "caterory": "The Unforgettable"
+    },
+    "Rusty Nail": {
+      "name": "Ржавый гвоздь",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-дижестив (десертный) на основе скотча и драмбуи",
+      "method": "build with ice",
+      "ingredients": ["whiskey", "drambuie"],
+      "caterory": "The Unforgettable"
+    },
+    "Sazerac": {
+      "name": "Сазерак",
+      "recipe": "Наполните олд фешен стакан кубиками льда доверху и налейте абсент, затем отставьте его в сторону.\nПоложите в стакан для смешивания кубик сахара и капните на него пишо биттер.\nПридавите сахар обратной стороной барной ложки, налейте коньяк, размешайте.\nВылейте из олд фешена лед и абсент (шаг 1).",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-дижестив (десертный) на основе коньяка или виски",
+      "method": "stir & strain",
+      "ingredients": [["brandy", "whiskey"]],
+      "caterory": "The Unforgettable"
+    },
+    "Sidecar": {
+      "name": "Сайдкар",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Классический коктейль на весь день, традиционно смешиваемый из коньяка, апельсинового ликёра (Куантро, Grand Marnier или других трипл секов) и лимонного сока",
+      "method": "shake & strain",
+      "ingredients": ["brandy", ["orange liqueur", "cointreau", "triple sec"], "lemon juice"],
+      "caterory": "The Unforgettable"
+    },
+    "Tuxedo": {
+      "name": "Смокинг",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль на весь день на основе джина, сухого вермута, ликёра Мараскино, абсента и апельсинового биттера",
+      "method": "stir & strain",
+      "ingredients": ["gin", "dry vermouth", "absent", "orange bitter"],
+      "caterory": "The Unforgettable"
+    },
+    "Stinger": {
+      "name": "Стингер",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-дижестив на основе коньяка и светлого мятного ликёра crème de menthe",
+      "method": "stir & strain",
+      "ingredients": ["brandy", "mint liqueur"],
+      "caterory": "The Unforgettable"
+    },
+
+    "Bellini": {
+      "name": "Беллини",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Газированный коктейль на основе игристого вина и персикового пюре, изобретён в Венеции (Италия)",
+      "method": "build",
+      "ingredients": ["sparkling wine", "peach"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Tequila Sunrise": {
+      "name": "Восходящее солнце",
+      "recipe": "Наполни хайбол кубиками льда доверху<br/>Налей гренадин 10 мл и серебряную текилу 50 мл<br/>Долей апельсиновый сок доверху и аккуратно размешай коктейльной ложкой<br/>Укрась кружком апельсина",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/873/Tequila_sunrise-highres.jpg",
+      "desc": "Коктейль лонг дринк на основе текилы, гренадина и апельсинового сока",
+      "method": "build with ice",
+      "ingredients": ["Tequila", "grenadine", "orange juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Golden dream": {
+      "name": "Золотая мечта",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-дижестив (десертный) на основе итальянского ликёра Galliano (крепостью до 30 об%), который прекрасно смешивается с другими напитками и крепкого (40 об%) французского ликёра Куантро",
+      "method": "shake & strain",
+      "ingredients": ["galliano", "cointreau"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Caipirinha": {
+      "name": "Кайпиринья",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Бразильский алкогольный коктейль на весь день на основе кашасы, лайма, льда и тростникового сахара",
+      "method": "build & muddle",
+      "ingredients": ["cachaca", "lime juice", "sugar syrup"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Kir": {
+      "name": "Кир",
+      "desc": "Коктейль-аперитив на основе белого сухого вина и чёрносмородинового ликёра Creme de Cassis, изобретён в Бургундии (Франция)",
+      "method": "build",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "ingredients": ["white wine", "blackcurrant liqueur"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Cosmopolitan cocktail": {
+      "name": "Космополитен",
+      "recipe": "Налей в шейкер лаймовый сок 10 мл, клюквенный сок 50 мл, ликер трипл сек 20 мл и цитрусовую водку 40 мл<br/>Наполни шейкер кубиками льда и взбей<br/>Перелей через стрейнер в охлажденный коктейльный бокал<br/>Зажги над коктейлем горелку и выжми на нее масло из апельсиновой цедры<br/>Проведи цедрой по краям бокала и укрась ею коктейль",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/29/1556446379-kosmopoliten-image-final.jpg",
+      "desc": "Коктейль на весь день на основе водки, ликёра трипл-сек, лимонного и клюквенного сока",
+      "method": "shake & strain",
+      "ingredients": ["vodka", "triple sec", "cranberry juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Caife Gaelach": {
+      "name": "Кофе по-ирландски",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Горячий кофейный напиток, который относят в категорию коктейлей со сливками, на основе Ирландского виски, чёрного кофе, взбитых сливок и коричневого сахара",
+      "method": "build",
+      "ingredients": ["whiskey", "coffee", "cream"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Godmother": {
+      "name": "Крёстная мать",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-дижестив на основе водки и ликёра Амаретто",
+      "method": "stir",
+      "ingredients": ["vodka", "amaretto"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Godfather": {
+      "name": "Крёстный отец",
+      "recipe": "Наполни рокс кубиками льда доверху<br/>Налей в бокал ликер амаретто 25 мл и односолодовый виски из Лоуленда 50 мл<br/>Размешай коктейльной ложкой<br/>",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/1077/1556109600-com_800xmax.jpg",
+      "desc": "Коктейль-дижестив на основе скотча (Шотландского виски) и ликёра Амаретто",
+      "method": "stir",
+      "ingredients": ["whiskey", "amaretto"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Bloody Mary": {
+      "name": "Кровавая Мэри",
+      "recipe": "Наполни хайбол кубиками льда доверху<br/>Налей в шейкер лимонный сок 10 мл, томатный сок 120 мл и водку 50 мл<br/>Добавь табаско соус красный 3 дэш и ворчестер соус 3 дэш<br/>Приправь щепоткой сельдереевой соли и щепоткой черного перца молотого<br/>Наполни шейкер льдом, закрой и перекатывай несколько минут из одной руки в другую по вертикали<br/>Перелей через стрейнер в хайбол и укрась стеблем сельдерея",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/31/1535834703-krovavaya_mery-image-final.jpg",
+      "desc": "Коктейль лонг дринк на основе водки, томатного сока, лимонного сока, специй и других добавок",
+      "method": "stir & strain",
+      "ingredients": ["vodka", "tomato juice", "lemon juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Cuba Libre": {
+      "name": "Куба либре",
+      "recipe": "Наполни хайбол кубиками льда доверху<br/>Налей лаймовый сок 10 мл и золотой ром 50 мл<br/>Долей колу доверху и аккуратно размешай коктейльной ложкой<br/>Укрась кружками лайма",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/33/1557243002-kuba_libre-image-final.jpg",
+      "desc": "Коктейль лонг дринк на основе рома и кока-колы",
+      "method": "build with ice",
+      "ingredients": [["white rum", "dark rum"], "cola"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Grasshopper": {
+      "name": "Кузнечик",
+      "recipe": "Налей в шейкер нежирные сливки 30 мл, мятный ликер зеленый 30 мл и какао ликер светлый 30 мл<br/>Наполни шейкер кубиками льда и взбей<br/>Перелей через стрейнер в охлажденный коктейльный бокал<br/>Укрась двумя листиками мяты",
+      "imageUrl": "https://ru.inshaker.com/uploads/cocktail/hires/34/1556448388-kuznechik-image-final.jpg",
+      "desc": "Коктейль со сливками, подаваемый в качестве дижестива, на основе шоколадного и мятного (crème de menthe) — зелёного цвета ликёра и взбитых сливок",
+      "method": "shake & strain",
+      "ingredients": ["mint liqueur", "chocolate liqueur", "cream"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Long Island Iced Tea": {
+      "name": "Лонг-Айленд айс ти",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе водки, джина, текилы и рома. Кроме того, в состав обычно входит ликёр трипл сек (либо Куантро), кока-кола (или холодный чай) и так далее",
+      "method": "build with ice",
+      "ingredients": ["vodka", "gin", "tequila", ["dark rum", "white rum"], ["orange liqueur", "cointreau", "triple sec"], ["tea", "cola"]],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Horse's Neck": {
+      "name": "Лошадиная шея",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе коньяка или бренди, имбирного эля (или лимонада) и биттера «Ангостура»",
+      "method": "build with ice",
+      "ingredients": ["brandy", "ginger ale", "angostura"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Mai Tai": {
+      "name": "Май Тай",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе рома, апельсинового ликёра, миндального сиропа и сока лайма",
+      "method": "shake",
+      "ingredients": [["dark rum", "white rum"], ["orange liqueur", "cointreau", "triple sec"], "almond syrup", "lime juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Margarita": {
+      "name": "Маргарита",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль на весь день на основе текилы, ликёра трипл сек (либо Куантро), с добавлением сока лайма или лимона",
+      "method": "shake & strain",
+      "ingredients": [ "tequila", ["orange liqueur", "cointreau", "triple sec"], ["lime juice", "lemon juice"]],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Mimosa": {
+      "name": "Мимоза",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Газированный коктейль на основе шампанского и апельсинового сока",
+      "method": "build",
+      "ingredients": ["sparkling wine", "orange juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Sea Breeze": {
+      "name": "Морской бриз",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе водки, грейпфрутового и клюквенного сока",
+      "method": "build with ice",
+      "ingredients": ["vodka", "grapefruit juice", "cranberry juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Moscow Mule": {
+      "name": "Московский мул»",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе водки, имбирного эля, и сока лайма",
+      "method": "build",
+      "ingredients": ["vodka", "ginger ale", "lime juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Mojito": {
+      "name": "Мохито",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе светлого рома и листьев мяты",
+      "method": "build with ice",
+      "ingredients": ["white rum", "mint"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Mint julep": {
+      "name": "Мятный джулеп",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе бурбона (или другого крепкого спиртного напитка), воды, дроблёного льда и свежей мяты",
+      "method": "build with ice",
+      "ingredients": ["whiskey", "mint"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Pina colada": {
+      "name": "Пина колада",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе светлого рома, с добавлением кокосового молока и ананасового сока",
+      "method": "shake",
+      "ingredients": ["white rum", "pineapple juice", ["cream", "сoconut liqueur", "coconut cream"]],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Rose": {
+      "name": "Роза",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-дижестив (десертный) на основе вишнёвого ликёра, сухого вермута и клубничного сиропа",
+      "method": "stir & strain",
+      "ingredients": ["cherry liqueur", "dry vermouth", "strawberry syrup"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Sex on the beach": {
+      "name": "Секс на пляже",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе водки, персикового ликёра, апельсинового и клюквенного сока",
+      "method": "build with ice",
+      "ingredients": ["vodka", "peach liqueur", "cranberry juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Singapore Sling": {
+      "name": "Сингапурский слинг",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе джина, трёх ликёров: вишнёвого, апельсинового (Трипл Сека) и «Бенедиктина», гренадина, ананасового и лимонного сока с добавлением биттера «Ангостура»",
+      "method": "shake & strain",
+      "ingredients": ["gin", "cherry liqueur", ["orange liqueur", "cointreau", "triple sec"], "benedictine", "grenadine", "pineapple juice", "lemon juice", "angostura"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "French Connection": {
+      "name": "Французский связной",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-дижестив (десертный) на основе коньяка и ликёра Амаретто",
+      "method": "build with ice",
+      "ingredients": ["brandy", "amaretto"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "French 75": {
+      "name": "Французский 75",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Газированный коктейль на основе джина, шампанского и лимонного сока",
+      "method": "shake & strain",
+      "ingredients": ["sparkling wine", "gin", "lemon juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Harvey Wallbanger": {
+      "name": "Харви Волбенгер",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль на весь день на основе водки, ликёра Galliano и апельсинового сока",
+      "method": "build with ice",
+      "ingredients": ["vodka", "galliano", "orange juice"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Hemingway Especial": {
+      "name": "Хемингуэй спешл",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль на весь день на основе светлого рома, ликёра Мараскино",
+      "method": "shake & strain",
+      "ingredients": ["white rum", "cherry liqueur"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Black Russian": {
+      "name": "Чёрный русский",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-дижестив (десертный) на основе водки и кофейного ликёра",
+      "method": "build with ice",
+      "ingredients": [["coffee", "coffee liqueur"], "vodka"],
+      "caterory": "Contemporary Сlassics"
+    },
+    "Champagne cocktail": {
+      "name": "Шампань",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Газированный коктейль на основе шампанского, бренди и биттера «Ангостура»",
+      "method": "build",
+      "ingredients": ["sparkling wine", "brendy", "angostura"],
+      "caterory": "Contemporary Сlassics"
+    },
+
+    "B-52": {
+      "name": "Б-52",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Слоистый коктейль-дижестив (десертный) из трёх ликёров (кофейного, сливочного и крепкого апельсинового ликёра — Трипл-сека)",
+      "method": "build",
+      "ingredients": ["coffee liqueur", "cream liqueur", "triple sec"],
+      "caterory": "New Era Drinks"
+    },
+    "Barracuda": {
+      "name": "Барракуда",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Газированный коктейль на основе рома, ликёра Galliano, игристого вина, ананасового сока и сока лайма",
+      "method": "shake & strain",
+      "ingredients": [["dark rum", "white rum"], "galliano", "sparkling wine", "pineapple juice", "lime juice"],
+      "caterory": "New Era Drinks"
+    },
+    "Vampiro": {
+      "name": "Вампиро",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе текилы, томатного, апельсинового и сока лайма",
+      "method": "shake & strain",
+      "ingredients": ["tequila", "tomato juice", "orange juice", "lime juice"],
+      "caterory": "New Era Drinks"
+    },
+    "Spritz veneziano": {
+      "name": "Венецианский спритц",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Газированный коктейль на основе игристого вина, биттера Апероль и содовой воды",
+      "method": "buid",
+      "ingredients": ["sparkling wine", "aperol", "soda"],
+      "caterory": "New Era Drinks"
+    },
+    "Vesper": {
+      "name": "Веспер",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-аперитив на основе джина, водки и светлого французского аперитивного вина Кина Лилле",
+      "method": "shake & strain",
+      "ingredients": ["gin", "vodka", "lillet"],
+      "caterory": "New Era Drinks"
+    },
+    "Dirty martini": {
+      "name": "Грязный мартини",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-аперитив на основе водки, сухого вермута и жидкости от консервированных оливок",
+      "method": "stir & strain",
+      "ingredients": ["vodka", "dry vermouth", "olive"],
+      "caterory": "New Era Drinks"
+    },
+    "Bramble": {
+      "name": "Ежевика",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль на весь день на основе джина, ежевичного ликёра, лимонного сока и сахарного сиропа",
+      "method": "build",
+      "ingredients": ["gin", "blackberry liqueur", "lime juice", "sugar syrup"],
+      "caterory": "New Era Drinks"
+    },
+    "Yellow bird": {
+      "name": "Жёлтая птичка",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль на весь день на основе белого рома, ликёров Galliano и Triple Sec и сока лайма",
+      "method": "shake & strain",
+      "ingredients": ["white rum", "galliano", "triple sec", "lime juice"],
+      "caterory": "New Era Drinks"
+    },
+    "Kamikaze": {
+      "name": "Камикадзе",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль на весь день на основе водки, ликёра Трипл сек и сока лайма",
+      "method": "shake & strain",
+      "ingredients": ["vodka", "triple sec", "lime juice"],
+      "caterory": "New Era Drinks"
+    },
+    "Tommy's Margarita": {
+      "name": "Маргарита Томми",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль на весь день на основе текилы, свежевыжатого сока лайма и нектара агавы",
+      "method": "shake & strain",
+      "ingredients": ["tequila", "lime juice", "agave"],
+      "caterory": "New Era Drinks"
+    },
+    "Lemon drop martini": {
+      "name": "Мартини капля лимона",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль на весь день на основе водки и ликёра Трипл сек",
+      "method": "shake & strain",
+      "ingredients": ["vodka", "tiple sec", "lemon juice"],
+      "caterory": "New Era Drinks"
+    },
+    "Pisco sour": {
+      "name": "Писко сауэр",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Сауэр коктейль на основе виноградной водки Писко, лимонного сока, сахарного сиропа, яичного белка с добавлением биттера Ангостура",
+      "method": "build with ice",
+      "ingredients": ["grape vodka", "lemon juice", "sugar syrup", "egg", "angostura"],
+      "caterory": "New Era Drinks"
+    },
+    "Russian spring punch": {
+      "name": "Русский весенний пунш",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Газированный коктейль на основе водки, ликёра Creme de Cassis, игристого вина, лимонного сока и сахарного сиропа",
+      "method": "shake",
+      "ingredients": ["vodka", "sparkling wine", "blackcurrant liqueur", "lime juice", "sugar syrup"],
+      "caterory": "New Era Drinks"
+    },
+    "Dark 'N' Stormy": {
+      "name": "Тьма и буря",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль лонг дринк на основе тёмного рома, имбирного пива",
+      "method": "build with ice",
+      "ingredients": ["dark rum", "ginger ale"],
+      "caterory": "New Era Drinks"
+    },
+    "French Martini": {
+      "name": "Французский мартини",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-аперитив на основе водки, малинового ликёра и ананасового сока",
+      "method": "stir & strain",
+      "ingredients": ["vodka", ["raspberry liqueur", "raspberry syrup"], "pineapple juice"],
+      "caterory": "New Era Drinks"
+    },
+    "Espresso Martini": {
+      "name": "Эспрессо мартини",
+      "recipe": "Рецепт в работе",
+      "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/10-klassicheskix-alkogolnyx-kokteJleJ-kotorye-ne-vyxodyat-iz-mody_1532122147-1140x570.jpg",
+      "desc": "Коктейль-дижестив на основе водки, кофейного ликёра, кофе эспрессо и сахарного сиропа",
+      "method": "shake & strain",
+      "ingredients": ["vodka", "coffee liqueur", "coffee", "sugar syrup"],
+      "caterory": "New Era Drinks"
+    }
+  },
+  "ingredients": {
+    "gin": {
+      "name": "Джин"
+    },
+    "cherry liqueur": {
+      "name": "Вишневый ликер"
+    },
+    "creme de violette": {
+      "name": "Фиалковый ликер"
+    },
+    "lemon juice": {
+      "name": "Лимонный сок"
+    },
+    "creme de cacao": {
+      "name": "Creme de Cacao"
+    },
+    "cream": {
+      "name": "Сливки"
+    },
+    "red vermouth": {
+      "name": "Красный вермут"
+    },
+    "campari": {
+      "name": "Campari"
+    },
+    "white rum": {
+      "name": "Белый ром"
+    },
+    "grenadine": {
+      "name": "Гренадин"
+    },
+    "cointreau": {
+      "name": "Куантро"
+    },
+    "triple sec": {
+      "name": "Трипл-сек"
+    },
+    "brandy": {
+      "name": "Бренди"
+    },
+    "chocolate liqueur": {
+      "name": "Шоколадный ликер"
+    },
+    "whiskey": {
+      "name": "Виски"
+    },
+    "sugar syrup":{
+      "name": "Сахарный сироп"
+    },
+    "orange juice": {
+      "name": "Апельсиновый сок"
+    },
+    "absent": {
+      "name": "Абсент"
+    },
+    "lime juice": {
+      "name": "Сок лайма"
+    },
+    "peach bitter": {
+      "name": "Персиковый биттер"
+    },
+    "mint": {
+      "name": "Мята"
+    },
+    "soda": {
+      "name": "Газированная вода"
+    },
+    "orange bitter": {
+      "name": "Апельсиновый биттер"
+    },
+    "raspberry syrup": {
+      "name": "Малиновый сироп"
+    },
+    "egg": {
+      "name": "Яичный белок"
+    },
+    "apricot brandy": {
+      "name": "Абрикосовый бренди"
+    },
+    "calvados": {
+      "name": "Кальвадос"
+    },
+    "bitter": {
+      "name": "Биттер"
+    },
+    "vermouth": {
+      "name": "Вермут"
+    },
+    "pineapple juice": {
+      "name": "Ананасовый сок"
+    },
+    "vodka": {
+      "name": "Водка"
+    },
+    "angostura": {
+      "name": "Ангостура"
+    },
+    "dark rum": {
+      "name": "Темный ром"
+    },
+    "port wine":{
+      "name": "Портвейн"
+    },
+    "drambuie": {
+      "name": "Драмбуи"
+    },
+    "orange liqueur": {
+      "name": "Апельсиновый ликер"
+    },
+    "dry vermouth": {
+      "name": "Сухой вермут"
+    },
+    "mint liqueur": {
+      "name": "Мятный ликер"
+    },
+    "sparkling wine": {
+      "name": "Игристое вино"
+    },
+    "peach":{
+      "name": "Персик"
+    },
+    "galliano": {
+      "name": "Galliano"
+    },
+    "cachaca": {
+      "name": "Кашаса"
+    },
+    "white wine": {
+      "name": "Белое вино"
+    },
+    "blackcurrant liqueur": {
+      "name": "Чёрносмородиновый ликер"
+    },
+    "cranberry juice": {
+      "name": "Клюквенный сок"
+    },
+    "amaretto": {
+      "name": "Амаретто"
+    },
+    "tomato juice": {
+      "name": "Томатный сок"
+    },
+    "cola": {
+      "name": "Кола"
+    },
+    "tea": {
+      "name": "Чай"
+    },
+    "coffee": {
+      "name": "Кофе"
+    },
+    "almond syrup": {
+      "name": "Миндальный сироп"
+    },
+    "grapefruit juice": {
+      "name": "Грейпфрутовый сок"
+    },
+    "ginger ale": {
+      "name": "Имбирный эль"
+    },
+    "сoconut liqueur":{
+      "name": "Кокосовый ликер"
+    },
+    "coconut cream":{
+      "name": "Кокосовые сливки"
+    },
+    "strawberry syrup": {
+      "name": "Клубничный сироп"
+    },
+    "peach liqueur": {
+      "name": "Персиковый ликер"
+    },
+    "benedictine": {
+      "name": "Бенедиктин"
+    },
+    "coffee liqueur": {
+      "name": "Кофейный ликер"
+    },
+    "cream liqueur": {
+      "name": "Сливочный ликер"
+    },
+    "aperol": {
+      "name": "aperol"
+    },
+    "lillet": {
+      "name": "Кина Лилле"
+    },
+    "olive": {
+      "name": "Оливки"
+    },
+    "blackberry liqueur": {
+      "name": "Ежевичный ликер"
+    },
+    "agave": {
+      "name": "Нектар агавы"
+    },
+    "grape vodka": {
+      "name": "Виноградная водка"
+    },
+    "raspberry liqueur": {
+      "name": "Малиновый ликер"
+    }
+  },
+  "methods": {
+    "build": {
+      "name": "Билд"
+    },
+    "build with ice": {
+      "name": "Билд со льдом"
+    },
+    "muddling": {
+      "name": "Мадлинг"
+    },
+    "stir": {
+      "name": "стир"
+    },
+    "strain": {
+      "name": "стрейн"
+    },
+    "shake": {
+      "name": "shake"
+    }
+  }
+}
