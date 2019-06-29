@@ -1,4 +1,4 @@
-const data = require('./data');
+const data = require('./data/ru.json');
 
 function searchByIngredients(ingredients) {
     const result = [];
