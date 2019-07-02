@@ -46,7 +46,32 @@ function getCoctail(name) {
     return data.coctails[name]
 }
 
+
+function getIngredientString(name) {
+    const coctail = getCoctail(name);
+    const ingredient = [];
+    for (let i of coctail.ingredients) {
+        if (typeof i === 'string') {
+            if (!data.ingredients[i]) {
+                continue
+            }
+            ingredient.push(data.ingredients[i].name);
+        } else {
+            const alt = [];
+            for (let ii of i) {
+                if (!data.ingredients[ii]) {
+                    continue
+                }
+                alt.push(data.ingredients[ii].name);
+            }
+            ingredient.push(alt.join(" или "))
+        }
+    }
+    return ingredient.join(", ");
+}
+
 module.exports = {
     searchByIngredients,
     getCoctail,
+    getIngredientString,
 };
