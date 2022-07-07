@@ -19,6 +19,6 @@
     "firebase-admin": "^5.13.1",
     "firebase-functions": "^2.0.2",
     "googleapis": "^40.0.0",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
