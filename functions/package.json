@@ -16,8 +16,8 @@
     "actions-on-google": "^2.2.0",
     "dialogflow": "^0.10.1",
     "dialogflow-fulfillment": "^0.5.0",
-    "firebase-admin": "^5.13.1",
-    "firebase-functions": "^2.0.2",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^4.1.1",
     "googleapis": "^40.0.0",
     "moment": "^2.24.0"
   }
